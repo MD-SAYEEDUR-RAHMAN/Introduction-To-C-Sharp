@@ -1,0 +1,7 @@
+C:\Users\Nohan\source\repos\C# Practice\String_Type_p4\String_Type_p4\bin\Debug\String_Type_p4.exe.config
+C:\Users\Nohan\source\repos\C# Practice\String_Type_p4\String_Type_p4\bin\Debug\String_Type_p4.exe
+C:\Users\Nohan\source\repos\C# Practice\String_Type_p4\String_Type_p4\bin\Debug\String_Type_p4.pdb
+C:\Users\Nohan\source\repos\C# Practice\String_Type_p4\String_Type_p4\obj\Debug\String_Type_p4.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\C# Practice\String_Type_p4\String_Type_p4\obj\Debug\String_Type_p4.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\C# Practice\String_Type_p4\String_Type_p4\obj\Debug\String_Type_p4.exe
+C:\Users\Nohan\source\repos\C# Practice\String_Type_p4\String_Type_p4\obj\Debug\String_Type_p4.pdb

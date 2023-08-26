@@ -1,0 +1,7 @@
+C:\Users\Nohan\source\repos\C# Practice\Common_Operator_P5\Common_Operator_P5\bin\Debug\Common_Operator_P5.exe.config
+C:\Users\Nohan\source\repos\C# Practice\Common_Operator_P5\Common_Operator_P5\bin\Debug\Common_Operator_P5.exe
+C:\Users\Nohan\source\repos\C# Practice\Common_Operator_P5\Common_Operator_P5\bin\Debug\Common_Operator_P5.pdb
+C:\Users\Nohan\source\repos\C# Practice\Common_Operator_P5\Common_Operator_P5\obj\Debug\Common_Operator_P5.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\C# Practice\Common_Operator_P5\Common_Operator_P5\obj\Debug\Common_Operator_P5.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\C# Practice\Common_Operator_P5\Common_Operator_P5\obj\Debug\Common_Operator_P5.exe
+C:\Users\Nohan\source\repos\C# Practice\Common_Operator_P5\Common_Operator_P5\obj\Debug\Common_Operator_P5.pdb

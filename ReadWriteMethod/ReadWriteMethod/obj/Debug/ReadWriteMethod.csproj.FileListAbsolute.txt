@@ -1,0 +1,7 @@
+C:\Users\Nohan\source\repos\C# Practice\ReadWriteMethod\ReadWriteMethod\bin\Debug\ReadWriteMethod.exe.config
+C:\Users\Nohan\source\repos\C# Practice\ReadWriteMethod\ReadWriteMethod\bin\Debug\ReadWriteMethod.exe
+C:\Users\Nohan\source\repos\C# Practice\ReadWriteMethod\ReadWriteMethod\bin\Debug\ReadWriteMethod.pdb
+C:\Users\Nohan\source\repos\C# Practice\ReadWriteMethod\ReadWriteMethod\obj\Debug\ReadWriteMethod.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\C# Practice\ReadWriteMethod\ReadWriteMethod\obj\Debug\ReadWriteMethod.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\C# Practice\ReadWriteMethod\ReadWriteMethod\obj\Debug\ReadWriteMethod.exe
+C:\Users\Nohan\source\repos\C# Practice\ReadWriteMethod\ReadWriteMethod\obj\Debug\ReadWriteMethod.pdb

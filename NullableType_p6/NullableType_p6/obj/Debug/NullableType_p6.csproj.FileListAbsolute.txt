@@ -1,0 +1,7 @@
+C:\Users\Nohan\source\repos\C# Practice\NullableType_p6\NullableType_p6\bin\Debug\NullableType_p6.exe.config
+C:\Users\Nohan\source\repos\C# Practice\NullableType_p6\NullableType_p6\bin\Debug\NullableType_p6.exe
+C:\Users\Nohan\source\repos\C# Practice\NullableType_p6\NullableType_p6\bin\Debug\NullableType_p6.pdb
+C:\Users\Nohan\source\repos\C# Practice\NullableType_p6\NullableType_p6\obj\Debug\NullableType_p6.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\C# Practice\NullableType_p6\NullableType_p6\obj\Debug\NullableType_p6.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\C# Practice\NullableType_p6\NullableType_p6\obj\Debug\NullableType_p6.exe
+C:\Users\Nohan\source\repos\C# Practice\NullableType_p6\NullableType_p6\obj\Debug\NullableType_p6.pdb

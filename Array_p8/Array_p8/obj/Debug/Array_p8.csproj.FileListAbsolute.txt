@@ -1,0 +1,7 @@
+C:\Users\Nohan\source\repos\C# Practice\Array_p8\Array_p8\obj\Debug\Array_p8.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\C# Practice\Array_p8\Array_p8\obj\Debug\Array_p8.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\C# Practice\Array_p8\Array_p8\bin\Debug\Array_p8.exe.config
+C:\Users\Nohan\source\repos\C# Practice\Array_p8\Array_p8\bin\Debug\Array_p8.exe
+C:\Users\Nohan\source\repos\C# Practice\Array_p8\Array_p8\bin\Debug\Array_p8.pdb
+C:\Users\Nohan\source\repos\C# Practice\Array_p8\Array_p8\obj\Debug\Array_p8.exe
+C:\Users\Nohan\source\repos\C# Practice\Array_p8\Array_p8\obj\Debug\Array_p8.pdb

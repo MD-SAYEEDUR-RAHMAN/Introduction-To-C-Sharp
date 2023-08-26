@@ -1,0 +1,7 @@
+C:\Users\Nohan\source\repos\C# Practice\Built_In_Type\Built_In_Type\bin\Debug\Built_In_Type.exe.config
+C:\Users\Nohan\source\repos\C# Practice\Built_In_Type\Built_In_Type\bin\Debug\Built_In_Type.exe
+C:\Users\Nohan\source\repos\C# Practice\Built_In_Type\Built_In_Type\bin\Debug\Built_In_Type.pdb
+C:\Users\Nohan\source\repos\C# Practice\Built_In_Type\Built_In_Type\obj\Debug\Built_In_Type.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\C# Practice\Built_In_Type\Built_In_Type\obj\Debug\Built_In_Type.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\C# Practice\Built_In_Type\Built_In_Type\obj\Debug\Built_In_Type.exe
+C:\Users\Nohan\source\repos\C# Practice\Built_In_Type\Built_In_Type\obj\Debug\Built_In_Type.pdb

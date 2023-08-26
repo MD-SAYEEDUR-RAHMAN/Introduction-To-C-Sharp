@@ -1,0 +1,7 @@
+C:\Users\Nohan\source\repos\C# Practice\SwitchStatemment_p11\SwitchStatemment_p11\bin\Debug\SwitchStatemment_p11.exe.config
+C:\Users\Nohan\source\repos\C# Practice\SwitchStatemment_p11\SwitchStatemment_p11\bin\Debug\SwitchStatemment_p11.exe
+C:\Users\Nohan\source\repos\C# Practice\SwitchStatemment_p11\SwitchStatemment_p11\bin\Debug\SwitchStatemment_p11.pdb
+C:\Users\Nohan\source\repos\C# Practice\SwitchStatemment_p11\SwitchStatemment_p11\obj\Debug\SwitchStatemment_p11.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\C# Practice\SwitchStatemment_p11\SwitchStatemment_p11\obj\Debug\SwitchStatemment_p11.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\C# Practice\SwitchStatemment_p11\SwitchStatemment_p11\obj\Debug\SwitchStatemment_p11.exe
+C:\Users\Nohan\source\repos\C# Practice\SwitchStatemment_p11\SwitchStatemment_p11\obj\Debug\SwitchStatemment_p11.pdb

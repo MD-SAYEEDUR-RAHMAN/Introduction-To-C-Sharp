@@ -1,0 +1,7 @@
+C:\Users\Nohan\source\repos\C# Practice\SwitchStatementGoto_p12\SwitchStatementGoto_p12\bin\Debug\SwitchStatementGoto_p12.exe.config
+C:\Users\Nohan\source\repos\C# Practice\SwitchStatementGoto_p12\SwitchStatementGoto_p12\bin\Debug\SwitchStatementGoto_p12.exe
+C:\Users\Nohan\source\repos\C# Practice\SwitchStatementGoto_p12\SwitchStatementGoto_p12\bin\Debug\SwitchStatementGoto_p12.pdb
+C:\Users\Nohan\source\repos\C# Practice\SwitchStatementGoto_p12\SwitchStatementGoto_p12\obj\Debug\SwitchStatementGoto_p12.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\C# Practice\SwitchStatementGoto_p12\SwitchStatementGoto_p12\obj\Debug\SwitchStatementGoto_p12.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\C# Practice\SwitchStatementGoto_p12\SwitchStatementGoto_p12\obj\Debug\SwitchStatementGoto_p12.exe
+C:\Users\Nohan\source\repos\C# Practice\SwitchStatementGoto_p12\SwitchStatementGoto_p12\obj\Debug\SwitchStatementGoto_p12.pdb

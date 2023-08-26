@@ -1,0 +1,7 @@
+C:\Users\Nohan\source\repos\C# Practice\DataTypeConversion_P7\DataTypeConversion_P7\bin\Debug\DataTypeConversion_P7.exe.config
+C:\Users\Nohan\source\repos\C# Practice\DataTypeConversion_P7\DataTypeConversion_P7\bin\Debug\DataTypeConversion_P7.exe
+C:\Users\Nohan\source\repos\C# Practice\DataTypeConversion_P7\DataTypeConversion_P7\bin\Debug\DataTypeConversion_P7.pdb
+C:\Users\Nohan\source\repos\C# Practice\DataTypeConversion_P7\DataTypeConversion_P7\obj\Debug\DataTypeConversion_P7.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\C# Practice\DataTypeConversion_P7\DataTypeConversion_P7\obj\Debug\DataTypeConversion_P7.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\C# Practice\DataTypeConversion_P7\DataTypeConversion_P7\obj\Debug\DataTypeConversion_P7.exe
+C:\Users\Nohan\source\repos\C# Practice\DataTypeConversion_P7\DataTypeConversion_P7\obj\Debug\DataTypeConversion_P7.pdb

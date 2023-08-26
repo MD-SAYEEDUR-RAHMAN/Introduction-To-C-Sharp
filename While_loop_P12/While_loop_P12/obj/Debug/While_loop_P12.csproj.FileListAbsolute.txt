@@ -1,0 +1,7 @@
+C:\Users\Nohan\source\repos\C# Practice\While_loop_P12\While_loop_P12\bin\Debug\While_loop_P12.exe.config
+C:\Users\Nohan\source\repos\C# Practice\While_loop_P12\While_loop_P12\bin\Debug\While_loop_P12.exe
+C:\Users\Nohan\source\repos\C# Practice\While_loop_P12\While_loop_P12\bin\Debug\While_loop_P12.pdb
+C:\Users\Nohan\source\repos\C# Practice\While_loop_P12\While_loop_P12\obj\Debug\While_loop_P12.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\C# Practice\While_loop_P12\While_loop_P12\obj\Debug\While_loop_P12.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\C# Practice\While_loop_P12\While_loop_P12\obj\Debug\While_loop_P12.exe
+C:\Users\Nohan\source\repos\C# Practice\While_loop_P12\While_loop_P12\obj\Debug\While_loop_P12.pdb
