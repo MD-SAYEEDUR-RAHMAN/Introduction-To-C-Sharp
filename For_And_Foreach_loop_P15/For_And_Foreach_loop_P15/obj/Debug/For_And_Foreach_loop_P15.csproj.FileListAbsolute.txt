@@ -1,0 +1,7 @@
+C:\Users\Nohan\source\repos\C# Practice\For_And_Foreach_loop_P15\For_And_Foreach_loop_P15\bin\Debug\For_And_Foreach_loop_P15.exe.config
+C:\Users\Nohan\source\repos\C# Practice\For_And_Foreach_loop_P15\For_And_Foreach_loop_P15\bin\Debug\For_And_Foreach_loop_P15.exe
+C:\Users\Nohan\source\repos\C# Practice\For_And_Foreach_loop_P15\For_And_Foreach_loop_P15\bin\Debug\For_And_Foreach_loop_P15.pdb
+C:\Users\Nohan\source\repos\C# Practice\For_And_Foreach_loop_P15\For_And_Foreach_loop_P15\obj\Debug\For_And_Foreach_loop_P15.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\C# Practice\For_And_Foreach_loop_P15\For_And_Foreach_loop_P15\obj\Debug\For_And_Foreach_loop_P15.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\C# Practice\For_And_Foreach_loop_P15\For_And_Foreach_loop_P15\obj\Debug\For_And_Foreach_loop_P15.exe
+C:\Users\Nohan\source\repos\C# Practice\For_And_Foreach_loop_P15\For_And_Foreach_loop_P15\obj\Debug\For_And_Foreach_loop_P15.pdb
