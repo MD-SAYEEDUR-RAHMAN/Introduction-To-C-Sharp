@@ -1,0 +1,7 @@
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Static_And_Instance_Member_P20\Static_And_Instance_Member_P20\bin\Debug\Static_And_Instance_Member_P20.exe.config
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Static_And_Instance_Member_P20\Static_And_Instance_Member_P20\bin\Debug\Static_And_Instance_Member_P20.exe
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Static_And_Instance_Member_P20\Static_And_Instance_Member_P20\bin\Debug\Static_And_Instance_Member_P20.pdb
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Static_And_Instance_Member_P20\Static_And_Instance_Member_P20\obj\Debug\Static_And_Instance_Member_P20.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Static_And_Instance_Member_P20\Static_And_Instance_Member_P20\obj\Debug\Static_And_Instance_Member_P20.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Static_And_Instance_Member_P20\Static_And_Instance_Member_P20\obj\Debug\Static_And_Instance_Member_P20.exe
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Static_And_Instance_Member_P20\Static_And_Instance_Member_P20\obj\Debug\Static_And_Instance_Member_P20.pdb

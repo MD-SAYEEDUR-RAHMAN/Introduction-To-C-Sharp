@@ -1,0 +1,6 @@
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Namespace_P18\ProjectA.TeamA\bin\Debug\ProjectA.TeamA.dll
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Namespace_P18\ProjectA.TeamA\bin\Debug\ProjectA.TeamA.pdb
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Namespace_P18\ProjectA.TeamA\obj\Debug\ProjectA.TeamA.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Namespace_P18\ProjectA.TeamA\obj\Debug\ProjectA.TeamA.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Namespace_P18\ProjectA.TeamA\obj\Debug\ProjectA.TeamA.dll
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Namespace_P18\ProjectA.TeamA\obj\Debug\ProjectA.TeamA.pdb

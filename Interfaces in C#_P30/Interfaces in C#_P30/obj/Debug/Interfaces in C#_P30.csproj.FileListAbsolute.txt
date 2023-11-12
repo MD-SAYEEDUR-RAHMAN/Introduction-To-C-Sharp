@@ -1,0 +1,7 @@
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Interfaces in C#_P30\Interfaces in C#_P30\bin\Debug\Interfaces in C#_P30.exe.config
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Interfaces in C#_P30\Interfaces in C#_P30\bin\Debug\Interfaces in C#_P30.exe
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Interfaces in C#_P30\Interfaces in C#_P30\bin\Debug\Interfaces in C#_P30.pdb
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Interfaces in C#_P30\Interfaces in C#_P30\obj\Debug\Interfaces in C#_P30.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Interfaces in C#_P30\Interfaces in C#_P30\obj\Debug\Interfaces in C#_P30.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Interfaces in C#_P30\Interfaces in C#_P30\obj\Debug\Interfaces in C#_P30.exe
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Interfaces in C#_P30\Interfaces in C#_P30\obj\Debug\Interfaces in C#_P30.pdb

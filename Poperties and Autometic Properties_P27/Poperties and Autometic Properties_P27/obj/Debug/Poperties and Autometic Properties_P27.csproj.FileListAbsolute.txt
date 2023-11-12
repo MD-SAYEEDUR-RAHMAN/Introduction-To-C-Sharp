@@ -1,0 +1,7 @@
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Poperties and Autometic Properties_P27\Poperties and Autometic Properties_P27\bin\Debug\Poperties and Autometic Properties_P27.exe.config
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Poperties and Autometic Properties_P27\Poperties and Autometic Properties_P27\bin\Debug\Poperties and Autometic Properties_P27.exe
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Poperties and Autometic Properties_P27\Poperties and Autometic Properties_P27\bin\Debug\Poperties and Autometic Properties_P27.pdb
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Poperties and Autometic Properties_P27\Poperties and Autometic Properties_P27\obj\Debug\Poperties and Autometic Properties_P27.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Poperties and Autometic Properties_P27\Poperties and Autometic Properties_P27\obj\Debug\Poperties and Autometic Properties_P27.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Poperties and Autometic Properties_P27\Poperties and Autometic Properties_P27\obj\Debug\Poperties and Autometic Properties_P27.exe
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Poperties and Autometic Properties_P27\Poperties and Autometic Properties_P27\obj\Debug\Poperties and Autometic Properties_P27.pdb

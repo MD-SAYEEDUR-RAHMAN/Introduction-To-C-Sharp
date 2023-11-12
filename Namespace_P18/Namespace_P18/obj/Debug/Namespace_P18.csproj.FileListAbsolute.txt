@@ -1,0 +1,12 @@
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Namespace_P18\Namespace_P18\bin\Debug\Namespace_P18.exe.config
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Namespace_P18\Namespace_P18\bin\Debug\Namespace_P18.exe
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Namespace_P18\Namespace_P18\bin\Debug\Namespace_P18.pdb
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Namespace_P18\Namespace_P18\obj\Debug\Namespace_P18.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Namespace_P18\Namespace_P18\obj\Debug\Namespace_P18.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Namespace_P18\Namespace_P18\obj\Debug\Namespace_P18.exe
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Namespace_P18\Namespace_P18\obj\Debug\Namespace_P18.pdb
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Namespace_P18\Namespace_P18\bin\Debug\ProjectA.TeamA.dll
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Namespace_P18\Namespace_P18\bin\Debug\ProjectA.TeamB.dll
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Namespace_P18\Namespace_P18\bin\Debug\ProjectA.TeamA.pdb
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Namespace_P18\Namespace_P18\bin\Debug\ProjectA.TeamB.pdb
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Namespace_P18\Namespace_P18\obj\Debug\Namespace_P18.csproj.CopyComplete

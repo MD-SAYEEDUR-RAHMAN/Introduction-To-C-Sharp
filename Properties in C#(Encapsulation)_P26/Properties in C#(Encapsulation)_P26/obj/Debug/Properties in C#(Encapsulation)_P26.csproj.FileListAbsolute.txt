@@ -1,0 +1,7 @@
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Properties in C#(Encapsulation)_P26\Properties in C#(Encapsulation)_P26\bin\Debug\Properties in C#(Encapsulation)_P26.exe.config
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Properties in C#(Encapsulation)_P26\Properties in C#(Encapsulation)_P26\bin\Debug\Properties in C#(Encapsulation)_P26.exe
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Properties in C#(Encapsulation)_P26\Properties in C#(Encapsulation)_P26\bin\Debug\Properties in C#(Encapsulation)_P26.pdb
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Properties in C#(Encapsulation)_P26\Properties in C#(Encapsulation)_P26\obj\Debug\Properties in C#(Encapsulation)_P26.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Properties in C#(Encapsulation)_P26\Properties in C#(Encapsulation)_P26\obj\Debug\Properties in C#(Encapsulation)_P26.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Properties in C#(Encapsulation)_P26\Properties in C#(Encapsulation)_P26\obj\Debug\Properties in C#(Encapsulation)_P26.exe
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Properties in C#(Encapsulation)_P26\Properties in C#(Encapsulation)_P26\obj\Debug\Properties in C#(Encapsulation)_P26.pdb

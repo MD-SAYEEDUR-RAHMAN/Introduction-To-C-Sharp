@@ -1,0 +1,7 @@
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Method_Perameters_P17\Method_Perameters_P17\bin\Debug\Method_Perameters_P17.exe.config
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Method_Perameters_P17\Method_Perameters_P17\bin\Debug\Method_Perameters_P17.exe
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Method_Perameters_P17\Method_Perameters_P17\bin\Debug\Method_Perameters_P17.pdb
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Method_Perameters_P17\Method_Perameters_P17\obj\Debug\Method_Perameters_P17.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Method_Perameters_P17\Method_Perameters_P17\obj\Debug\Method_Perameters_P17.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Method_Perameters_P17\Method_Perameters_P17\obj\Debug\Method_Perameters_P17.exe
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Method_Perameters_P17\Method_Perameters_P17\obj\Debug\Method_Perameters_P17.pdb

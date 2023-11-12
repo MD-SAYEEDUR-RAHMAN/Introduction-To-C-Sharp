@@ -1,0 +1,7 @@
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Delegates in C#_P36\Delegates in C#_P36\bin\Debug\Delegates in C#_P36.exe.config
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Delegates in C#_P36\Delegates in C#_P36\bin\Debug\Delegates in C#_P36.exe
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Delegates in C#_P36\Delegates in C#_P36\bin\Debug\Delegates in C#_P36.pdb
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Delegates in C#_P36\Delegates in C#_P36\obj\Debug\Delegates in C#_P36.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Delegates in C#_P36\Delegates in C#_P36\obj\Debug\Delegates in C#_P36.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Delegates in C#_P36\Delegates in C#_P36\obj\Debug\Delegates in C#_P36.exe
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Delegates in C#_P36\Delegates in C#_P36\obj\Debug\Delegates in C#_P36.pdb

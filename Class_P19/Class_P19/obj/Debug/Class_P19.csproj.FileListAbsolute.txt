@@ -1,0 +1,7 @@
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Class_P19\Class_P19\bin\Debug\Class_P19.exe.config
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Class_P19\Class_P19\bin\Debug\Class_P19.exe
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Class_P19\Class_P19\bin\Debug\Class_P19.pdb
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Class_P19\Class_P19\obj\Debug\Class_P19.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Class_P19\Class_P19\obj\Debug\Class_P19.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Class_P19\Class_P19\obj\Debug\Class_P19.exe
+C:\Users\Nohan\source\repos\Introduction-To-C-Sharp\Class_P19\Class_P19\obj\Debug\Class_P19.pdb
